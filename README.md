@@ -14,7 +14,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Miler1)  
 
-![GitHub metrics](https://metrics.lecoq.io/Miler1)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Miler1)   -->
 
-![Profile views](https://gpvc.arturio.dev/Miler1)  
+<!-- ![Profile views](https://gpvc.arturio.dev/Miler1)   -->
 
